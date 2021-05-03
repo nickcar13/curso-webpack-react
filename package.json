@@ -1,0 +1,13 @@
+{
+  "name": "curso-webpack-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "git@github.com:nickcar13/curso-webpack-react.git",
+  "author": "Nico Castañeda <nickcar13@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
